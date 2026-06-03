@@ -27,11 +27,6 @@ Previous Work experience
   * University College of Science, Tumkur University, Tumakuru
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
   
 
