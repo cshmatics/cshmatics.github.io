@@ -8,7 +8,7 @@ author_profile: true
 
 
 **Dr. Channabasavayya**  
-Assistant Professor of Mathematics
+Assistant Professor of Mathematics <br>
 Government First Grade College, Shiralakoppa
 
 **Email:**  
