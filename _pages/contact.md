@@ -6,12 +6,9 @@ author_profile: true
 ---
 
 
-## Contact Information
 
 **Dr. Channabasavayya**  
 Assistant Professor of Mathematics
-
-**Institution:**  
 Government First Grade College, Shiralakoppa
 
 **Email:**  
